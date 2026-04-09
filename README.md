@@ -1,4 +1,4 @@
-# 🚀 Alex Rivera — React Portfolio
+SHRABANTI SAHA — React Portfolio
 
 Converted from single HTML file to **React component architecture** with separated HTML, CSS, JS files.
 
