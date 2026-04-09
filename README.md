@@ -1,10 +1,4 @@
-# 🚀 Alex Rivera — React Portfolio
 
-Converted from single HTML file to **React component architecture** with separated HTML, CSS, JS files.
-
-## 📁 Structure
-
-```
 PORTFOLIO TASK 1/
 ├── index.html           # Original complete portfolio (live-server)
 ├── portfolio.html       # Backup
